@@ -1,0 +1,6 @@
+[submodule "BarTrenderFront"]
+	path = BarTrenderFront
+	url = https://github.com/BarTrender/BarTrenderFront.git
+[submodule "BarTrenderBack"]
+	path = BarTrenderBack
+	url = https://github.com/BarTrender/BarTrenderBack.git
